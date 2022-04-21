@@ -8,12 +8,12 @@ E. coli. Technologies used were Python, PHP, HTML, CSS, Javascript, and MySQL. T
 are ones of size and speed, by linking the user to existing NCBI resources like RefSeq and the SRA, our goal is to lower the
 size constrains of such a project.
 
+Citations: 
+_-PHP and HTML came from https://www.w3schools.com/
+-Pagenation basis comes from https://www.w3schools.com/
+-All other code was self created._
 
-
-
-
-
-MIT License
+**MIT License**
 
 Copyright (c) 2022 Caleb M. Sandall
 
