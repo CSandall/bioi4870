@@ -9,9 +9,9 @@ are ones of size and speed, by linking the user to existing NCBI resources like 
 size constrains of such a project.
 
 Citations: 
-_-PHP and HTML came from https://www.w3schools.com/
+-PHP and HTML came from https://www.w3schools.com/
 -Pagenation basis comes from https://www.w3schools.com/
--All other code was self created._
+-All other code was self created.
 
 **MIT License**
 
